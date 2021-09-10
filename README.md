@@ -2,6 +2,8 @@
 
 This is the scheduling tool for the UArch mentoring workshop, used in 2021.
 
+https://sites.google.com/wisc.edu/uarch2021/
+
 ### Dependences
 
 The only dependence is google optimization tools:
