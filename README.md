@@ -10,7 +10,7 @@ https://developers.google.com/optimization/install
 
 ### Inputs/Outputs
 
-The inputs are in two TSV files: prof.tsv, and students.tsv. TSV was used to allow fields to contain commas, without increasing the complexity of parsing.
+The inputs are in two TSV files: prof.tsv, and students.tsv. TSV was used to allow fields to contain commas, without increasing the complexity of parsing.  Don't put any extra blank lines in the TSV files, as these will be misinterpreted.
 
 The mapping will be printed on stdout.  The outputs are in corresponding csv files, and contain the email message to students and professors.
 
