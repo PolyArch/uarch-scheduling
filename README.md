@@ -18,9 +18,9 @@ The mapping will be printed on stdout.  The outputs are in corresponding csv fil
 
 To run:
 
-> make
+`> make`
 
-> build/assigner
+`> build/assigner`
 
 ### Notes
 
